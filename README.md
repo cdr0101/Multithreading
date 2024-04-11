@@ -1,3 +1,7 @@
+## MULTITHREADING 
+### Submitted by: CHELSI
+### Group: 3CS6
+### Roll No.: 102117161
 ## **METHODOLOGY:**
 
 1. ***Function for matrix multiplication:***  matrix_multiply() is defined to perform matrix multiplication of two matrices (A and B) using np.dot(). It stores the answer at the specific index of result array.
